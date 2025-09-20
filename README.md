@@ -17,3 +17,6 @@
 ## Design Decisions
 - Component-based architecture: Structured the app using reusable React components to improve maintainability, readability, and scalability.
 - Folder structure: Organized `src` into `components`, `pages`, and `assets` .
+
+## Deployment
+- https://jus-assign.vercel.app
